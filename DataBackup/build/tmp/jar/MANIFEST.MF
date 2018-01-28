@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: mainpackage.Quickstart
+Class-Path: jPowerShell-1.9.1.jar google-api-client-1.23.0.jar google-
+ oauth-client-jetty-1.23.0.jar google-api-services-drive-v3-rev96-1.23
+ .0.jar google-oauth-client-1.23.0.jar google-http-client-jackson2-1.2
+ 3.0.jar guava-jdk5-17.0.jar google-oauth-client-java6-1.23.0.jar jett
+ y-6.1.26.jar google-http-client-1.23.0.jar jsr305-1.3.9.jar jackson-c
+ ore-2.1.3.jar jetty-util-6.1.26.jar servlet-api-2.5-20081211.jar http
+ client-4.0.1.jar httpcore-4.0.1.jar commons-logging-1.1.1.jar commons
+ -codec-1.3.jar
+
